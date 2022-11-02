@@ -19,10 +19,6 @@ while True: #para o jogo ficar  rodando
             exit()
     pygame.draw.rect(tela,(255,0,0), (200,300,40,50)) # tela(onde desenhar), RGB, posições: x,y,largura,altura
     pygame.draw.circle(tela,(0,100,0),(300,260),40) #tela(onde desenhar), RGB, posições, raio do círculo
-    pygame.draw.line(tela, (255,255,0), (390,0), (390,600),5)#tela (onde desenhar), RGB, primeiro ponto, segundo ponto, espessura da linha
+    pygame.draw.line(tela, (255,255,100), (390,0), (390,600),5)#tela (onde desenhar), RGB, primeiro ponto, segundo ponto, espessura da linha
 
     pygame.display.update() #para atualizar a tela enquanto o jogo roda
-
-
-
-
