@@ -1,0 +1,41 @@
+Uma biblioteca nada mais é do que um conjunto de códigos que facilitam na criação de algo.
+
+As bibliotecas podem ser definidas em quatro categorias:
+1) Criação de sites e api's
+ -requests- : biblioteca para interação de api's com site.
+ -flask- : framework para criar sites e api's (estrutura mais simples)
+ -django- : framework para criar sites e api's (estrutura mais complexa)
+
+2) Ciência de dados e inteligência artificial
+
+.ciência de dados
+ -NumPy- : biblioteca para mainpulação e tratamento de dados
+ -pandas- : biblioteca para manipulação e tratamento de dados
+-plotly- : para visualização dos dados e gráficos
+   >dash : biblioteca do plortly para construção de dashboard        
+-matplotilib- : para visualização dos dados e gráficos
+-seaborn- : para visualização dos dados e gráficos
+-powerbi- : para construção de dashboard (da microsoft integrado com python)
+
+ .inteligência artificial
+-tensorflow- : criação de modelo de inteligência artificial
+-keras- : criação de modelo de inteligência artificial 
+-opencv- : manipular vídeo ou imagem, reconhecimento facial etc...
+-scikit.learn-
+-NLTK- : para análise de linguagem
+-PyTortch- : para acelerar o processo de construção de inteligência artificial
+
+3) Automação
+-selenium- : pegar informações num site, preencher formulários automaticamente... (automação de processos online)
+-scrapy- : raspagem de dados
+-beatiful soup- : raspagem de dados
+-PyAutoGUI's- : automatica mouse, teclado e monitor (quando pensar em trabalho repetitivo no computador, sem ser online)
+-pyodbc- : biblioteca com integração dos bancos de dados (sql, ou qualquer outro)
+-pywin32- : automatizar uma série de coisas do windows em si
+
+4) Interface gráfica
+-kivy- : criação de telas interativas (funciona em qualquer plataforma)
+-tkinter- : mais simples que o kivy, para começar, vem dentro do python
+-PyQt5- : sistemas complexos, essa biblioteca ou o kivy.
+-Pygame- : bilbioteca para jogos 2d. 
+
