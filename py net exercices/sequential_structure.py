@@ -58,6 +58,14 @@ pg = galao*25
 print(f'comprando latas: R${pl}')
 print(f'comprando galao: R${pg}')
 
+#Faça um programa que peça o tamanho de um arquivo para download (em MB) e a velocidade de um link de Internet (em Mbps), calcule e informe o tempo aproximado de download do arquivo usando este link (em minutos).
+
+arquivo = str(input('tamanho do arquivo em MB: '))
+velocidade = str(input('velocidade em Mbps: '))
+
+pritn(f'Irá demorar:{(arquivo/velocidade/8)/60} minutos ')
+
+
 
 
 
